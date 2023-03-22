@@ -1,10 +1,11 @@
 import './App.css'
+import About from './Components/About'
 
 function App() {
 
     return (
         <div className="App">
-            <h1 className='font-bold'>Hello my name is Le Nhat Duy</h1>
+            <About />
         </div>
     )
 }
