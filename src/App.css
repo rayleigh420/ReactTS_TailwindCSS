@@ -1,10 +1,14 @@
 @tailwind base;
 
 @layer base {
-  body {}
+  body {
+    @apply bg-sky-700;
+    @apply opacity-90
+  }
+
 }
 
-body {
+/* body {
   --tw-bg-opacity: 1;
   background-color: rgb(3 105 161 / var(--tw-bg-opacity));
-}
+} */
