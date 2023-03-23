@@ -2,8 +2,8 @@
 
 @layer base {
   body {
-    @apply bg-sky-700;
-    @apply opacity-90
+    /* @apply bg-sky-700;
+    @apply opacity-90 */
   }
 
 }

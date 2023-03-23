@@ -6,7 +6,11 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        qidian: "//qidian.qpic.cn/qidian_common/349573/78fce8716a866511419f688546de7f67/0)"
+      },
+    },
   },
   plugins: [],
 }
