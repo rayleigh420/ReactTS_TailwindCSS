@@ -30,6 +30,18 @@ const Tangthuvienvn = () => {
                                 <span className='text-[#bf2c24] text-[12px] leading-[22px] border border-[#bf2c24] rounded-[15px] px-[10px] py-1'>Huyền Huyễn</span>
                             </div>
                             <p className='text-[#666666] font-[14px] leading-[20px] mt-[11px]'>Quỷ bí thế giới bộ 2. 1368 chi niên, tháng bảy chi mạt, thâm...</p>
+                            <div className='mt-[12px]'>
+                                <span className=' text-[#262626] text-[20px] tracking-[0.5px] leading-[22px] border-r border-r-[#e6e6e6] pr-[14px]'>127 <span className='text-[#666666] text-[12px] leading-[20px]'>Yêu thích</span></span>
+                                <span className=' text-[#262626] text-[20px] tracking-[0.5px] leading-[22px] border-r border-r-[#e6e6e6] pr-[14px] pl-[14px]'>96571 <span className='text-[#666666] text-[12px] leading-[20px]'>Lượt xem</span></span>
+                                <span className=' text-[#262626] text-[20px] tracking-[0.5px] leading-[22px] border-r border-r-[#e6e6e6] pr-[14px] pl-[14px]'>334 <span className='text-[#666666] text-[12px] leading-[20px]'>Theo dõi</span></span>
+                                <span className=' text-[#262626] text-[20px] tracking-[0.5px] leading-[22px] border-r border-r-[#e6e6e6] pr-[14px] pl-[14px]'>442 <span className='text-[#666666] text-[12px] leading-[20px]'>Đề cử tháng này</span></span>
+                            </div>
+                            <div className="mt-[12px]">
+                                <button className='border bg-[#A3261F] text-[#ffffff] font-[14px] leading-[34px] px-6'>Đọc truyện</button>
+                                <button className='border bg-[#A3261F] text-[#ffffff] font-[14px] leading-[34px] px-6 ml-4'>Yêu thích</button>
+                                <button className='border bg-[#A3261F] text-[#ffffff] font-[14px] leading-[34px] px-6 ml-4'>Theo dõi</button>
+                                <button className=''>Đề cử</button>
+                            </div>
                         </div>
                     </div>
                     <div>
