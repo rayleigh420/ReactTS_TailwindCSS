@@ -1,12 +1,12 @@
 import './App.css'
 import About from './Components/About'
-import RoundRock from './Pages/RoundRock'
+import Tangthuvienvn from './Pages/Tangthuvienvn'
 
 function App() {
 
     return (
-        <div className="App">
-            <RoundRock />
+        <div className="App relative">
+            <Tangthuvienvn />
             {/* <About /> */}
         </div>
     )
