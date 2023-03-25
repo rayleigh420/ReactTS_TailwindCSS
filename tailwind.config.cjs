@@ -8,7 +8,10 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        qidian: "//qidian.qpic.cn/qidian_common/349573/78fce8716a866511419f688546de7f67/0)"
+        qidian: "//qidian.qpic.cn/qidian_common/349573/78fce8716a866511419f688546de7f67/0"
+      },
+      fontFamily: {
+        sans: ['Arial', 'sans-serif'],
       },
     },
   },

@@ -2,6 +2,10 @@
 
 @layer base {
   h1 {
-    @apply font-bold;
+    @apply text-violet-800 !important;
+  }
+
+  body {
+    @apply font-sans !important;
   }
 }
