@@ -53,6 +53,11 @@ const Tangthuvienvn = () => {
                         <button className='w-[106px] h-[32px] border border-[#2972cc] text-[#2972cc] p-[5px] ml-4 text-[13px] leading-[20px] box-border'>Đăng ký convert</button>
                     </div>
                 </div>
+                <div className='border-b border-b-[#666666] mt-[65px] pb-0'>
+                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4 hover:decoration-[#ed4259]'>Thông tin chi tiết</span>
+                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4 hover:decoration-[#ed4259]'>Danh sách chương (44 chương)</span>
+                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4 hover:decoration-[#ed4259]'>Bình luận</span>
+                </div>
             </div>
         </>
     )

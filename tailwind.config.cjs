@@ -12,6 +12,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Arial', 'sans-serif'],
+        robo: ['Roboto', 'sans-serif']
       },
     },
   },
