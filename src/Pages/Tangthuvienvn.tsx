@@ -13,7 +13,7 @@ const Tangthuvienvn = () => {
                 <span className="text-[15px] text-[#BBBABB] ml-9">Võ Hiệp</span>
             </div>
             <div className="relative">
-                <span className="absolute text-white text-sm left-[250px] top-4 bg-[#A89674] px-1 py-[2px] rounded-lg">Trang chủ - Tiên Hiệp - Thanh Liên Chi Đỉnh</span>
+                <span className="absolute text-white text-sm left-[250px] top-4 bg-[#A89674] px-1 py-[2px] rounded-lg">Trang chủ - Kỳ Huyễn - Túc Mệnh Chi Hoàn</span>
                 <img src="https://qidian.qpic.cn/qidian_common/349573/78fce8716a866511419f688546de7f67/0" />
             </div>
             <div className="flex flex-col top-[220px] absolute bg-white translate-x-[-50%] left-[50%] w-[1040px]">
@@ -54,9 +54,9 @@ const Tangthuvienvn = () => {
                     </div>
                 </div>
                 <div className='border-b border-b-[#666666] mt-[65px] pb-0'>
-                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4 hover:decoration-[#ed4259]'>Thông tin chi tiết</span>
-                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4 hover:decoration-[#ed4259]'>Danh sách chương (44 chương)</span>
-                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4 hover:decoration-[#ed4259]'>Bình luận</span>
+                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4  hover:decoration-[#ed4259]'>Thông tin chi tiết</span>
+                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4  hover:decoration-[#ed4259]'>Danh sách chương (44 chương)</span>
+                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4  hover:decoration-[#ed4259]'>Bình luận</span>
                 </div>
             </div>
         </>
