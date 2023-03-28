@@ -53,10 +53,51 @@ const Tangthuvienvn = () => {
                         <button className='w-[106px] h-[32px] border border-[#2972cc] text-[#2972cc] p-[5px] ml-4 text-[13px] leading-[20px] box-border'>Đăng ký convert</button>
                     </div>
                 </div>
-                <div className='border-b border-b-[#666666] mt-[65px] pb-0'>
-                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4  hover:decoration-[#ed4259]'>Thông tin chi tiết</span>
-                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4  hover:decoration-[#ed4259]'>Danh sách chương (44 chương)</span>
-                    <span className='mb-0 font-robo text-[#666666] hover:text-[#ed4259] cursor-pointer underline underline-offset-4  hover:decoration-[#ed4259]'>Bình luận</span>
+                <ul className=' mt-[55px] pb-0 list-none inline-flex'>
+                    <li className='text-[18px] leading-[40px] text-center px-[21px] border-b border-b-[#e6e6e6] mb-0 font-robo text-[#a6a6a6] hover:text-[#ed4259] hover:border-b-[#ed4259] hover:border-b-2 cursor-pointer '>Thông tin chi tiết</li>
+                    <li className='text-[18px] leading-[40px] text-center px-[21px] border-b border-b-[#e6e6e6] mb-0 font-robo text-[#a6a6a6] hover:text-[#ed4259] hover:border-b-[#ed4259] hover:border-b-2 cursor-pointer '>Danh sách chương (44 chương)</li>
+                    <li className='text-[18px] leading-[40px] text-center px-[21px] border-b border-b-[#e6e6e6] mb-0 font-robo text-[#a6a6a6] hover:text-[#ed4259] hover:border-b-[#ed4259] hover:border-b-2 cursor-pointer '>Bình luận</li>
+                    <li className='text-[18px] leading-[40px] text-center px-[21px] border-b border-b-[#e6e6e6] cursor-pointer grow'></li>
+                </ul>
+                <div className="flex flex-row">
+                    <div className='basis-2/3 text-[14px] leading-[28px] text-[#666666] font-sans'>
+                        <br />
+                        Quỷ bí thế giới bộ 2. <br />
+                        1368 chi niên, tháng bảy chi mạt, thâm hồng đem từ trên trời giáng xuống.
+                        <br />
+                        <br />
+                        - Tất cả tên nhân vật của QBCC giữ nguyên, còn lại tên mới sẽ lấy theo bản tiếng Anh:
+                        https://www.webnovel.com/book/lord-of-mysteries-2-circle-of-inevitability_25759730405792805 <br />
+                        <br />
+                        *1 lưu ý nhỏ: ta có thói quen đăng truyện NGHE AUDIO XONG MỚI XOÁT LỖI CẬP NHẬT LẠI. Nên thường chương nào vừa đăng xong hay bị lỗi tên. Chờ tầm 30 phút nghe xong ta update lại. Có gì cần sửa báo lỗi giúp nhé. <br />
+                        <br />
+                        <br />
+                        - 1 số thứ update khác ngoài tên nhân vật + địa danh: <br />
+                        +)Hồng Lật hoa(红栗花) = hoa hạt dẻ đỏ. (trong công thức thuốc ds 9 thợ săn). <br />
+                        +)kim tệ(金币), ngân tệ(银币) = đồng vàng, đồng bạc. <br />
+                        +)Rosemary = Hương thảo(nghi thức ma pháp khẩn cầu) <br />
+                        _____________________________ <br />
+                        - Quy đổi tiền tệ theo truyện:
+                        1 felkin = 100 koper = 20 lick.
+                        1 Louis(Russel) = 20 felkin = 2 000 koper = 400 lick.
+                        1 Ruen = 1,2 Louis = 24 felkin. <br />
+                        <br />
+                        _____________________________ <br />
+                        - Tổng hợp 22 con đường: <br />
+                        https://bit.ly/39zOqnc <br />
+
+                        - Tổng hợp lịch sử, thần linh và quốc gia by thtgiang: <br />
+                        https://bit.ly/343MtOq <br />
+                        <br />
+                        ______________________________ <br />
+                        Nếu thấy truyện hay có thể ném phiếu, donnate cho converter để mua chương qua: <br />
+                        BIDV. STK: 3211 0000 885 880 <br />
+                        Hoang Trong Ha <br />
+                        Chân thành cảm ơn các đạo hữu ^^ <br />
+                        <br />
+                        ______________________________
+                    </div>
+                    <div className='grow'>Hello</div>
                 </div>
             </div>
         </>
