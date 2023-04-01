@@ -3,14 +3,14 @@ import Tucmenhchihoang from '../assets/Tangthuvienvn/2.jpg'
 const Tangthuvienvn = () => {
     return (
         <>
-            <div className="bg-[#3D3E4A] px-[258px] py-[10px]">
-                <span className="text-[15px] font-normal text-white">Trang chủ</span>
-                <span className="text-[15px] text-[#BBBABB] ml-16">Tiên hiệp</span>
-                <span className="text-[15px] text-[#BBBABB] ml-9">Huyền Huyễn</span>
-                <span className="text-[15px] text-[#BBBABB] ml-9">Đô Thị</span>
-                <span className="text-[15px] text-[#BBBABB] ml-9">Khoa Huyễn</span>
-                <span className="text-[15px] text-[#BBBABB] ml-9">Kỳ Huyễn</span>
-                <span className="text-[15px] text-[#BBBABB] ml-9">Võ Hiệp</span>
+            <div className="bg-[#3D3E4A] px-[258px] flex flex-row items-left shadow-[0_2px_6px_0_rgba(0,0,0,1)]">
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-white mr-[30px]">Trang chủ</span>
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-[#BFBFBF] hover:text-[#ffffff] ">Tiên Hiệp</span>
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-[#BFBFBF] hover:text-[#ffffff] ">Huyền Huyễn</span>
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-[#BFBFBF] hover:text-[#ffffff] ">Đô Thị</span>
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-[#BFBFBF] hover:text-[#ffffff] ">Khoa Huyễn</span>
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-[#BFBFBF] hover:text-[#ffffff] ">Kỳ Huyễn</span>
+                <span className="block text-left text-[14px] leading-[42px] font-sans px-[15px] text-[#BFBFBF] hover:text-[#ffffff] ">Võ Hiệp</span>
             </div>
             <div className="relative">
                 <span className="absolute text-white text-sm left-[250px] top-4 bg-[#A89674] px-1 py-[2px] rounded-lg">Trang chủ - Kỳ Huyễn - Túc Mệnh Chi Hoàn</span>
@@ -70,7 +70,6 @@ const Tangthuvienvn = () => {
                         https://www.webnovel.com/book/lord-of-mysteries-2-circle-of-inevitability_25759730405792805 <br />
                         <br />
                         *1 lưu ý nhỏ: ta có thói quen đăng truyện NGHE AUDIO XONG MỚI XOÁT LỖI CẬP NHẬT LẠI. Nên thường chương nào vừa đăng xong hay bị lỗi tên. Chờ tầm 30 phút nghe xong ta update lại. Có gì cần sửa báo lỗi giúp nhé. <br />
-                        <br />
                         <br />
                         - 1 số thứ update khác ngoài tên nhân vật + địa danh: <br />
                         +)Hồng Lật hoa(红栗花) = hoa hạt dẻ đỏ. (trong công thức thuốc ds 9 thợ săn). <br />
